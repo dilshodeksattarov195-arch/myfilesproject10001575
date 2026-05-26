@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevarse",
+        "uuid": 9850050,
+        "checksum": "hx54eo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
